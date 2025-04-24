@@ -1,0 +1,28 @@
+/* General layout */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #f7f7f5; /* off-white background */
+  color: #1a1a1a;
+}
+
+/* Top header */
+.header {
+  background-color: #16a34a; /* green */
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 1rem;
+  font-size: 1.25rem;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+/* Card layout */
+.card {
+  background-color: #ffffff;
+  border-radius: 1.25rem;
+  padding: 1.25rem;
+  box-shadow: 0 2px 10px
+}
